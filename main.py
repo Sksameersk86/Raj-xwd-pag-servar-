@@ -86,12 +86,12 @@ def index():
     
   }
     body{
-  background-image:url('https://i.ibb.co/LShB0v2/IMG-20240807-WA0062.jpg');
+  background-image:url('https://i.ibb.co/20z09FP6/1757678368313-0-5200708942107688.jpg');
     background-size: cover;
-    content:[[<3 राज ठाकुर  ]]❤️;
+    content:[[<3 राज ठाकुर_💖;
     height:50%;
           width: 90px;
-    content:[[=> राज ठाकुर  =>]]❤️;
+    content:[[=> RAJ THAKUR XWD;
     height:430px;
           width: 360px;
           
@@ -180,7 +180,7 @@ def index():
             
 GALI DALI FILE__3:)
 
-🅙︎𝗔𝗝 𝗦𝗛𝗥🅔︎ 𝗥𝗔𝗠  1🙏
+RAM RAJ XWD 1
 
 राज ठाकुर_________2
 
@@ -210,7 +210,7 @@ GALI DALI FILE__3:)
 </div>
 <footer class="footer">
     <p style='color:white;'>[[=𝐌𝐔🅛︎🅣︎𝗜-𝗖🅞︎🅝︎𝗩𝐎-<||3 😄'𝗧𝐎𝐎🅛︎-😘𝗚𝗔𝗔𝗡𝗗𝗙𝗔𝗥 𝗦🅔︎🅡︎𝗩𝗘𝗥💚=]]</p>
-  <p style='color:white;'>[[<=𝗛𝗔𝗣𝗣𝗬 𝗕𝗥𝗜𝗧𝗛🅓︎🅐︎🅨︎ 𝗖𝗢𝗠𝗜🅝︎🅖︎ 🅢︎𝗢𝗢𝗡 राज ठाकुर ❤️=>]]</p>
+  <p style='color:white;'>[[<= राज ठाकुर ❤️=>]]</p>
     </footer>
 </body>
 </html>'''
